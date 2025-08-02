@@ -2,6 +2,8 @@
 
 This project aims to analyze and predict breast cancer diagnoses using machine learning techniques on a publicly available dataset.
 
+![Tumor Image](tumor.jpg)
+
 ## Project Structure
 
 - **Breast_cancer_dataset.csv**  
